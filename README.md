@@ -1,4 +1,6 @@
 # Hangman
-Simple Hangman game built using python
+Description: User must guess a randomly selected word before all lives are lost
 
-Testing knowledge skills using modules, for loops, while loops and lists
+Technology used: Python
+
+Knowledge skills involved: Calling methods from modules, storing and manipulating data in lists, for and while loops
